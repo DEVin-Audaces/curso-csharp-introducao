@@ -1,0 +1,15 @@
+C:\Devinhouse\curso-csharp\aulas\Aula02\bin\Debug\net6.0\Aula02.exe
+C:\Devinhouse\curso-csharp\aulas\Aula02\bin\Debug\net6.0\Aula02.deps.json
+C:\Devinhouse\curso-csharp\aulas\Aula02\bin\Debug\net6.0\Aula02.runtimeconfig.json
+C:\Devinhouse\curso-csharp\aulas\Aula02\bin\Debug\net6.0\Aula02.dll
+C:\Devinhouse\curso-csharp\aulas\Aula02\bin\Debug\net6.0\Aula02.pdb
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.csproj.AssemblyReference.cache
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfoInputs.cache
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfo.cs
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.dll
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\refint\Aula02.dll
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.pdb
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\Aula02.genruntimeconfig.cache
+C:\Devinhouse\curso-csharp\aulas\Aula02\obj\Debug\net6.0\ref\Aula02.dll

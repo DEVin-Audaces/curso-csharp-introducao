@@ -1,0 +1,15 @@
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\bin\Debug\net6.0\Exemplo.Console.exe
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\bin\Debug\net6.0\Exemplo.Console.deps.json
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\bin\Debug\net6.0\Exemplo.Console.runtimeconfig.json
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\bin\Debug\net6.0\Exemplo.Console.dll
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\bin\Debug\net6.0\Exemplo.Console.pdb
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.csproj.AssemblyReference.cache
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.AssemblyInfoInputs.cache
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.AssemblyInfo.cs
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.csproj.CoreCompileInputs.cache
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.dll
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\refint\Exemplo.Console.dll
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.pdb
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\Exemplo.Console.genruntimeconfig.cache
+C:\Devinhouse\curso-csharp\aulas\Aula03\Exemplo.Console\obj\Debug\net6.0\ref\Exemplo.Console.dll
